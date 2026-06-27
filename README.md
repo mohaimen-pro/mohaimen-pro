@@ -10,7 +10,7 @@ Passionate about building modern, scalable, and user-friendly web applications. 
 💻 Tech Stack:
 • HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
 • React.js • PHP • Laravel
-• Git • GitHub • JSON
+• Git • GitHub • JSON • NEXT JS
 
 🔹 Skilled in creating responsive, performance-focused, and clean UI/UX designs.
 🔹 Strong understanding of frontend and backend development.
